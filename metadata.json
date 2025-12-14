@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Generative Recipe App",
+  "description": "An AI-powered recipe generator. Users input a list of ingredients and select dietary preferences, and the application generates a unique recipe complete with cooking instructions and a photo-realistic image of the final dish.",
+  "requestFramePermissions": []
+}
